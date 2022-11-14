@@ -71,7 +71,7 @@ goto office
 )
 ```
 
-**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) hoặc [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhg3bKuI5HGHa_nUB7?e=4lsbfR) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Ebuo4utXHOhGncmFJ8phrZcB0sEldAucovhYOdDQ6SmwkQ?e=l7KLVp)**
+**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) hoặc [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhg3bKuI5HGHa_nUB7?e=4lsbfR) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Ebuo4utXHOhGncmFJ8phrZcB0sEldAucovhYOdDQ6SmwkQ?e=l7KLVp) hoặc [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiSYLpiYRb9EUq5qo?e=FWdWKO)**
 
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
